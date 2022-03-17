@@ -225,7 +225,7 @@ footer>.box>.content {
 
 .content>button {
     border: 0;
-    width: 40%;
+    max-width: 40%;
     justify-self: end;
     font-size: 1rem;
     padding: .5rem 1rem;
@@ -317,6 +317,6 @@ footer>.box>.content {
     .content button {
         margin-left: 2rem;
         justify-self: none;
-        width: 20%;
+        max-width: 34rem;
     }
 }
